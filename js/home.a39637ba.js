@@ -733,7 +733,7 @@
                   e("td", [t._v("2024/09/05")]),
                   e("td", [
                     t._v(
-                      "Course Introduction, Bigdata Exploratory Analytics"
+                      "Course Introduction and Bigdata Exploratory Analytics"
                     ),
                   ]),
                 ]),
@@ -742,7 +742,7 @@
                   e("td", [t._v("2024/09/12")]),
                   e("td", [
                     t._v(
-                      "Course Practice Project Introduction, Project Team Test"
+                      "Course Practice Project Introduction and Project Team Test"
                     ),
                   ]),
                 ]),
@@ -751,7 +751,7 @@
                   e("td", [t._v("2024/09/19")]),
                   e("td", [
                     t._v(
-                      "Project Experience Talk, Introduction to Scientific Research Practice"
+                      "Project Experience Talk and Introduction to Scientific Research Practice"
                     ),
                   ]),
                 ]),

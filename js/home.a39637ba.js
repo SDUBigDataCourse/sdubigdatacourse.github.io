@@ -733,7 +733,7 @@
                   e("td", [t._v("2024/09/05")]),
                   e("td", [
                     t._v(
-                      "Course introduction, bigdata exploratory analytics"
+                      "Course Introduction, Bigdata Exploratory Analytics"
                     ),
                   ]),
                 ]),
@@ -742,7 +742,7 @@
                   e("td", [t._v("2024/09/12")]),
                   e("td", [
                     t._v(
-                      "Course practice project introduction, roject team test"
+                      "Course Practice Project Introduction, Project Team Test"
                     ),
                   ]),
                 ]),
@@ -751,29 +751,29 @@
                   e("td", [t._v("2024/09/19")]),
                   e("td", [
                     t._v(
-                      "Project experience talk, introduction to scientific research practice"
+                      "Project Experience Talk, Introduction to Scientific Research Practice"
                     ),
                   ]),
                 ]),
                 e("tr", [
                   e("td", [t._v("04")]),
                   e("td", [t._v("2024/09/26")]),
-                  e("td", [t._v("Data sampling and dimensionality reduction")]),
+                  e("td", [t._v("Data Sampling and Dimensionality Reduction")]),
                 ]),
                 e("tr", [
                   e("td", [t._v("05")]),
                   e("td", [t._v("2024/10/03")]),
-                  e("td", [t._v("Data quality management")]),
+                  e("td", [t._v("Data Quality Management")]),
                 ]),
                 e("tr", [
                   e("td", [t._v("06")]),
                   e("td", [t._v("2024/10/10")]),
-                  e("td", [t._v("Crowdsourcing and spreadsheets")]),
+                  e("td", [t._v("Crowdsourcing and Spreadsheets")]),
                 ]),
                 e("tr", [
                   e("td", [t._v("07")]),
                   e("td", [t._v("2024/10/17")]),
-                  e("td", [t._v("Methods and tools for statistical analysis")]),
+                  e("td", [t._v("Methods and Tools for Statistical Analysis")]),
                 ]),
                 e("tr", [
                   e("td", [t._v("08")]),
